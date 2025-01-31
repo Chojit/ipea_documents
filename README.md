@@ -4,7 +4,7 @@ This repository contains the methodology and code used to analyze **Citations to
 
 ---
 
-## 🔍 **Overview**  
+## **Overview**  
 This study extracts and analyzes **scientific references** in Brazilian policy documents, focusing on:  
 ✔ **Identifying** cited scholarly papers using OpenAlex.  
 ✔ **Mapping** the origins (authors, institutions, countries) of these citations.  
